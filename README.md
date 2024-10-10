@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Zenyi1<br>👀 I’m interested in AI and Blockchain<br>🌱 I’m currently learning Solidity to create DeFi apps on the Ethereum blockchain<br>💞️ I’m looking to collaborate on data related projects<br>📫 How to reach me zenyigom@hotmail.com
+👋 Hi, I’m @Zenyi1<br>👀 I’m interested in AI and Blockchain<br>🌱 I’m currently building custom AI automations for small and medium businesses<br>💞️ I’m looking to collaborate on data related projects<br>📫 How to reach me zenyigom@hotmail.com
 
 
 ## 🌐 Socials:
